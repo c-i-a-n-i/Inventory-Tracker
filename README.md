@@ -1,5 +1,6 @@
 # Inventory-Tracker
-BABBAN GONA (ANDROID)
+BABBAN GONA
+
 FOR THE SUPPLY AND DISTRIBUTION APPLICATION
 The S&D personnel for the specified region in the web application receives a text message from the website containing the details of the transaction to be made.
 The S&D personnel opens the app tailored for Supply and Distribution. After logging in, the S&D personnel can then view all his transactions and their statuses (pending or completed). Upon clicking each transaction, he can view each sub transaction for each transaction. For example, if a transaction’s status is pending and not completed, if he clicks on it, he should see the status of each sub transaction (awaiting confirmation, confirmed, declined and completed). It is only when each sub transaction has been completed that the main transaction will be shown as completed. 
